@@ -19,4 +19,4 @@ Some of the projects I’ve worked on include:
 
 Python • Django • React.js • PostgreSQL • MongoDB • JavaScript • HTML • CSS • Bootstrap • Tailwind CSS • Git
 
-Currently focused on improving backend architecture, real-time systems, and full stack development skills.
+I am actively seeking **Full-Stack Python Developer** opportunities where I can join a collaborative engineering team, contribute to production-level software, and help build impactful, scalable systems.
