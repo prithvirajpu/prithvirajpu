@@ -1,6 +1,6 @@
 # Hi, I'm Prithviraj P.U.
 
-**[Portfolio](https://prithvirajpu.vercel.app/) | [LinkedIn](https://linkedin.com/in/prithviraj-p-u) | [GitHub](https://github.com/prithvirajpu)**
+**[Portfolio](https://prithvirajpu.online/) | [LinkedIn](https://linkedin.com/in/prithviraj-p-u) | [GitHub](https://github.com/prithvirajpu)**
 
 Full Stack Developer passionate about building scalable and user-friendly web applications using Python, Django, REST, React, and PostgreSQL.
 
